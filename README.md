@@ -47,10 +47,7 @@ drive.mount("drive/")
 
 ## Project structure
 
-
--- 
-    
--- Notebooks : Contient les notebooks Jupyter/Colab du projet.
+ 
     
 
 
