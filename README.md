@@ -80,4 +80,18 @@ project
     |      utilisant Tensorflow
     |
     |----- Notebook 3 _ One shot classification avec Pytorch.ipynb
+    |
+    |----- [Intermediaire]_Conception_d'un_modèle_de_détection_d'émotion.ipynb
+    |      Contient le code qui permet la création d'un modèle qui permet la détection
+    |      et la reconnaissance des émotions
+    |
+    |----- Notebook_4_Emotion_detection.ipynb : Contient l'application
+           du modèle responsable à la détection des émotions
+
 ```
+
+## Appendix
+
+the link to the ```HETIC PFA``` Folder is :
+
+> ```https://drive.google.com/drive/folders/1oznqVEAUe_bNdDiS5Vi93s7h1RXzmwQh?usp=sharing```
