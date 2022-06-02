@@ -6,6 +6,8 @@ A toolbox of deep neural networks designed for HR to analyze emotions via facial
 
 >> 
 
+![ Demo ](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 <center>
 
 # Membre du groupe
