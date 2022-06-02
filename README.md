@@ -95,3 +95,7 @@ project
 the link to the ```HETIC PFA``` Folder is :
 
 > ```https://drive.google.com/drive/folders/1oznqVEAUe_bNdDiS5Vi93s7h1RXzmwQh?usp=sharing```
+
+the link to the ```All Ressources``` Folder is :
+
+> ```https://drive.google.com/drive/folders/1ZMVFRWRhYpfg8qr3Idq6LMTeDa8XewL6?usp=sharing```
