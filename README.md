@@ -3,9 +3,9 @@ This project was coached and supervised by :
 <center>
 
 
->> <span style="color:blue"> **Jean-Charles Tassan** </span> as the business coach : [LinkedIn](https://fr.linkedin.com/in/jean-charles-tassan-1a5011b) 
+> <span style="color:blue"> **Jean-Charles Tassan** </span> as the business coach : [LinkedIn](https://fr.linkedin.com/in/jean-charles-tassan-1a5011b) 
 
->> <span style="color:blue"> **Théo Gigant** </span> as the technical coach : [LinkedIn](https://fr.linkedin.com/in/theo-gigant) 
+> <span style="color:blue"> **Théo Gigant** </span> as the technical coach : [LinkedIn](https://fr.linkedin.com/in/theo-gigant) 
 
 </center>
 <center>
